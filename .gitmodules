@@ -1,7 +1,7 @@
 [submodule "dnsmasq-dhcp-server"]
 	path = dnsmasq-dhcp-server
-	url = https://github.com/f18m/ha-addon-dnsmasq-dhcp-server
+	url = https://github.com/f18m/ha-addon-dnsmasq-dhcp
 [submodule "dnsmasq-dhcp-server-beta"]
 	path = dnsmasq-dhcp-server-beta
-	url = https://github.com/f18m/ha-addon-dnsmasq-dhcp-server
+	url = https://github.com/f18m/ha-addon-dnsmasq-dhcp
     branch = beta
