@@ -5,3 +5,6 @@
 	path = dnsmasq-dhcp-server-beta
 	url = https://github.com/f18m/ha-addon-dnsmasq-dhcp
     branch = beta
+[submodule "voip-client"]
+	path = voip-client
+	url = https://github.com/f18m/ha-addon-voip-client
