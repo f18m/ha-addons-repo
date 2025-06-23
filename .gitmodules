@@ -10,3 +10,7 @@
 	path = voip-client
 	url = https://github.com/f18m/ha-addon-voip-client
 	branch = main
+[submodule "voip-client-beta"]
+	path = voip-client-beta
+	url = https://github.com/f18m/ha-addon-voip-client
+	branch = beta
