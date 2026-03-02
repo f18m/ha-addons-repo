@@ -14,5 +14,8 @@ for addon in "${addons[@]}"; do
     ( cd "$addon" && git pull )
 done
 
+echo "-----------------------------------------------------"
+echo "All addons have been updated. Committing and pushing changes."
+echo "-----------------------------------------------------"
 git commit -am "bump"
 git push
